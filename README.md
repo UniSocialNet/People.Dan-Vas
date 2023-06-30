@@ -7,3 +7,4 @@
 video:
 - [COMPLETE Shopify Tutorial For Beginners 2023 - How To Create A Profitable Shopify Store From Scratch](https://youtu.be/KIiD4MA5sfk)
 - [How I Went From Zero To $1M/Year On Shopify - Josh Bak's Story](https://youtu.be/G00QMR9mvgQ)
+- [My First 3 Amazon Products... (Failures + Success)](https://youtu.be/lE45K8j7ebI)
